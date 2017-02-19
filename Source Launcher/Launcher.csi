@@ -1,0 +1,6 @@
+[History]
+1=#P0#=mb	#P1#=configura_Timer	#P2#=Launcher/update/configura_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20150511135454	#P7#=0	#P8#=4	.
+2=#P0#=mb	#P1#=DrawState	#P2#=Launcher/PictureButton/DrawState	#P3#=	#P4#=	#P5#=MembMethodPrivate	#P6#=20120919145008	#P7#=0	#P8#=3	.
+3=#P0#=mb	#P1#=PictureDown	#P2#=Launcher/PictureButton/PictureDown [Get]	#P3#=	#P4#=	#P5#=MembPropertyPrivate	#P6#=20120919144641	#P7#=0	#P8#=2	.
+4=#P0#=mb	#P1#=Form_Load	#P2#=Launcher/update/Form_Load	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120919142110	#P7#=0	#P8#=3	.
+5=#P0#=mb	#P1#=Form_Initialize	#P2#=Launcher/update/Form_Initialize	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20120919142024	#P7#=0	#P8#=1	.
